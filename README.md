@@ -14,7 +14,7 @@
   </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=isujun&style=flat-square&color=blue" alt=""/>
-<img src="https://visitorbadge.io/isujun" alt=""/>
+<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fisujun&countColor=%23263759" alt=""/>
 <h1>
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
