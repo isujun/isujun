@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="your-instagram-URL">
-    <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=isujun&style=flat-square&color=blue" alt=""/>
