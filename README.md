@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
-<img src="[https://komarev.com/ghpvc/?username=isujun&style=flat-square&color=blue](https://api.visitorbadge.io/api/status?path=https://github.com/isujun - GET)" alt=""/>
+<img src="https://api.visitorbadge.io/api/status?path=https://github.com/isujun - GET" alt=""/>
 <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fisujun&countColor=%23263759" alt=""/>
 <h1>
   hey there
