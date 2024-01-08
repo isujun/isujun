@@ -31,7 +31,7 @@
 I am a lifelong learner <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 - :telescope: I’m a student of information system and contributing to frontend and backend for building web applications.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring system design.
 
 - :zap: In my free time, I solve problems on GeeksforGeeks, leetcode and read tech articles.
 
